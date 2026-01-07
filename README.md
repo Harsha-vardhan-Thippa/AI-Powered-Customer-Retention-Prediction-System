@@ -1,4 +1,4 @@
-# Telecom Customer Churn Analysis using Python
+# Telecom Customer Churn Analysis using Python Matplotlib
 
 > **Exploratory Data Analysis (EDA) project focused on understanding customer churn patterns and retention drivers in the telecom domain.**
 
